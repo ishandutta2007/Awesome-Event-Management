@@ -9,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Event-Management/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Event-Management/graphs/commit-activity)
-[![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Event-Management?style=social)](https://github.com/ishandutta2007/Awesome-Event-Management/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Event-Management?style=social)](https://github.com/ishandutta2007/Awesome-Event-Management/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 📡 A curated, battle-tested list of leading IT Event Management, AIOps, Alert Correlation, and Observability Incident Automation platforms — featuring enterprise SaaS pricing models, free-tier limits, and top open-source alternatives.
@@ -54,9 +54,9 @@ Below is a breakdown of top commercial SaaS event management, correlation, and A
 
 ## 🔓 Open-Source Event Management & AIOps Platforms
 
-Below are leading open-source projects for event collection, alert routing, event correlation, and autonomous operations. Projects are ordered in descending order by **GitHub Star Count**.
+Below are leading open-source projects for event collection, alert routing, event correlation, and autonomous operations. Projects are ordered in descending order by **GitHub Stars_Count**.
 
-| 📦 Repository & Stars | 🏷️ Tech Stack | 💡 Core Description | 🔗 Stargazers Page |
+| 📦 Repository & GitHub_Stars | 🏷️ Tech Stack | 💡 Core Description | 🔗 Stargazers Page |
 | :--- | :--- | :--- | :--- |
 | **[Netdata](https://github.com/netdata/netdata)** [![Stars](https://img.shields.io/github/stars/netdata/netdata?style=social&color=white)](https://github.com/netdata/netdata/stargazers) ⚡ | C, Go, Python | High-fidelity real-time performance and health monitoring with per-second event anomaly detection and sub-second metrics collection. | [🌟 Netdata Stars](https://github.com/netdata/netdata/stargazers) |
 | **[Grafana](https://github.com/grafana/grafana)** [![Stars](https://img.shields.io/github/stars/grafana/grafana?style=social&color=white)](https://github.com/grafana/grafana/stargazers) 📊 | TypeScript, Go | Leading open and composable visualization platform featuring Grafana Alerting, unified alert management, and multi-source event correlation. | [🌟 Grafana Stars](https://github.com/grafana/grafana/stargazers) |
@@ -91,7 +91,7 @@ Contributions are very welcome! If you know of an awesome event management tool,
 
 1. 🍴 Fork the repository.
 2. 🌿 Create a feature branch (`git checkout -b feature/awesome-tool`).
-3. 📝 Add your tool following the existing tabular schema (including pricing and star badge).
+3. 📝 Add your tool following the existing tabular schema (including pricing and Stars_Badge).
 4. 🚀 Push to the branch and open a Pull Request.
 
 ---
