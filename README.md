@@ -4,11 +4,13 @@
 
 # ⚡ Awesome Event Management 🚀
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Event-Management/pulls)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ishandutta2007/Awesome-Event-Management/graphs/commit-activity)
 [![GitHub stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Event-Management?style=social)](https://github.com/ishandutta2007/Awesome-Event-Management/stargazers)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 > 📡 A curated, battle-tested list of leading IT Event Management, AIOps, Alert Correlation, and Observability Incident Automation platforms — featuring enterprise SaaS pricing models, free-tier limits, and top open-source alternatives.
 
@@ -20,6 +22,8 @@
 - [🔓 Open-Source Event Management & AIOps Platforms](#-open-source-event-management--aiops-platforms)
 - [🔍 Key Evaluation Criteria](#-key-evaluation-criteria)
 - [🤝 Contributing](#-contributing)
+- [💖 Support](#-support)
+- [📊 Star History](#-star-history)
 - [📜 License](#-license)
 
 ---
@@ -89,6 +93,24 @@ Contributions are very welcome! If you know of an awesome event management tool,
 2. 🌿 Create a feature branch (`git checkout -b feature/awesome-tool`).
 3. 📝 Add your tool following the existing tabular schema (including pricing and star badge).
 4. 🚀 Push to the branch and open a Pull Request.
+
+---
+
+## 💖 Support
+
+Thank you for visiting and supporting this curated initiative! If you find this guide helpful for your infrastructure, DevOps workflows, or architectural evaluations, please consider:
+
+- ⭐ **Starring this repository** to help others discover it
+- 🍴 **Forking and sharing** it with your engineering team & community
+- ☕ **Buying a coffee or sponsoring** via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)
+
+Your support keeps this guide fresh, accurate, and independent! 🙌
+
+---
+
+## 📊 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Event-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Event-Management&type=date&legend=top-left)
 
 ---
 
